@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="macochave.com.verificarcompania.MainActivity">
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="10"
+        android:title="@string/action_help"
+        android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="50"
+        android:title="@string/action_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_programer"
+        android:orderInCategory="100"
+        android:title="@string/action_programer"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="ifRoom" />
+</menu>

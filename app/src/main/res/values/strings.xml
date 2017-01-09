@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Verificar Compania</string>
+
+    <string name="action_help">Ayuda</string>
+    <string name="action_about">Acerca De</string>
+    <string name="action_programer">Desarrollador</string>
+
+    <string name="txtNumero">Ingrese un número</string>
+    <string name="edtNumero">Número telefónico</string>
+    <string name="btnVer">Ver compañia</string>
+    <string name="txtCompania">La compañia deberá mostrarse aquí</string>
+
+</resources>
